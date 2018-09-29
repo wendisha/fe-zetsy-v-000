@@ -50,3 +50,7 @@ header a {
 	text-align: right;
 	background: #fff;
 }
+
+header a:hover {
+	color: rgb(111,127,122);
+}
